@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.comgdsnetapp">
+  package="com.gdsapp2020">
 
     <uses-permission android:name="android.permission.INTERNET" />
 

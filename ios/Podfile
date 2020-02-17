@@ -1,8 +1,8 @@
 platform :ios, '9.0'
 require_relative '../node_modules/@react-native-community/cli-platform-ios/native_modules'
 
-target 'ComGdsnetApp' do
-  # Pods for ComGdsnetApp
+target 'GDSAPP2020' do
+  # Pods for GDSAPP2020
   pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
   pod 'FBLazyVector', :path => "../node_modules/react-native/Libraries/FBLazyVector"
   pod 'FBReactNativeSpec', :path => "../node_modules/react-native/Libraries/FBReactNativeSpec"
@@ -37,7 +37,7 @@ target 'ComGdsnetApp' do
 
 
 
-  target 'ComGdsnetAppTests' do
+  target 'GDSAPP2020Tests' do
     inherit! :search_paths
     # Pods for testing
   end
@@ -45,10 +45,10 @@ target 'ComGdsnetApp' do
   use_native_modules!
 end
 
-target 'ComGdsnetApp-tvOS' do
-  # Pods for ComGdsnetApp-tvOS
+target 'GDSAPP2020-tvOS' do
+  # Pods for GDSAPP2020-tvOS
 
-  target 'ComGdsnetApp-tvOSTests' do
+  target 'GDSAPP2020-tvOSTests' do
     inherit! :search_paths
     # Pods for testing
   end
