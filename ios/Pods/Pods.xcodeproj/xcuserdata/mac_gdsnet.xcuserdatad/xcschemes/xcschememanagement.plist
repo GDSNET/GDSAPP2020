@@ -24,22 +24,22 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-ComGdsnetApp-tvOS.xcscheme</key>
+		<key>Pods-GDS2020-tvOS.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-ComGdsnetApp-tvOSTests.xcscheme</key>
+		<key>Pods-GDS2020-tvOSTests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-ComGdsnetApp.xcscheme</key>
+		<key>Pods-GDS2020.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-ComGdsnetAppTests.xcscheme</key>
+		<key>Pods-GDS2020Tests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
