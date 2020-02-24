@@ -6,7 +6,7 @@
        "numero": 35,
        "estado": 0,
        "indicadores": [
-         {"indicador": "osa", "valor": "85M", "diferencia": "20" },
+         {"indicador": "osa", "valor": "85", "diferencia": "20" },
          {"indicador": "precios", "valor": "56$", "diferencia": "-15" },
          {"indicador": "promocion", "valor": "67%", "diferencia": "15" },
          {"indicador": "catalogo", "valor": "45%", "diferencia": "15" },
@@ -21,12 +21,12 @@
      "numero": 99,
      "estado": 1,
      "indicadores": [
-       {"indicador": "osa", "valor": "85M", "diferencia": "20" },
+       {"indicador": "osa", "valor": "85", "diferencia": "20" },
        {"indicador": "precios", "valor": "56$", "diferencia": "-15" },
        {"indicador": "promocion", "valor": "67%", "diferencia": "15" },
        {"indicador": "catalogo", "valor": "45%", "diferencia": "15" },
        {"indicador": "precios", "valor": "56$", "diferencia": "-33" },
-       {"indicador": "osa", "valor": "85M", "diferencia": "20" },
+       {"indicador": "osa", "valor": "85", "diferencia": "20" },
        {"indicador": "precios", "valor": "56$", "diferencia": "-15" },
        {"indicador": "promocion", "valor": "67%", "diferencia": "15" },
        {"indicador": "catalogo", "valor": "45%", "diferencia": "15" },

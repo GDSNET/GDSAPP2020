@@ -10,7 +10,7 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		EFPk589VgQf5owxyelN/ImUUSsM=
+		agSryHJ97dDPJqG7g6R6m2Kv4YE=
 		</data>
 		<key>Entypo.ttf</key>
 		<data>
@@ -48,6 +48,35 @@
 		<data>
 		SyvObHkkk6SlcWtv7C2+/olJLD8=
 		</data>
+		<key>Frameworks/XCTest.framework/Info.plist</key>
+		<data>
+		DQ4GPJ7FuM6H+FaCC/2wxhPSGCQ=
+		</data>
+		<key>Frameworks/XCTest.framework/XCTest</key>
+		<data>
+		HK6asLJ70IK7E4e83e8R1gxACHo=
+		</data>
+		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
+		<data>
+		/8LQToTPOL9FsEsYDaACQ21Day0=
+		</data>
+		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TuBj57ZP6zBqcL9HttO2Rucaw9E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/XCTest.framework/version.plist</key>
+		<data>
+		P6P66kW7+LvLIo4WHjXGltpT8CA=
+		</data>
+		<key>Frameworks/libXCTestBundleInject.dylib</key>
+		<data>
+		xKX69bDGMJa2TcU/BC9ypZ06rsI=
+		</data>
 		<key>Info.plist</key>
 		<data>
 		rduwtwN+0Ad18zDyjA0Z2L6VL90=
@@ -71,6 +100,26 @@
 		<key>PkgInfo</key>
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>PlugIns/GDS2020Tests.xctest.dSYM/Contents/Info.plist</key>
+		<data>
+		4pI57JVtZaiYKbstI1iTAY7VsLQ=
+		</data>
+		<key>PlugIns/GDS2020Tests.xctest.dSYM/Contents/Resources/DWARF/GDS2020Tests</key>
+		<data>
+		QD6jDTV46x2Z1RYWUeadQFN67Pw=
+		</data>
+		<key>PlugIns/GDS2020Tests.xctest/GDS2020Tests</key>
+		<data>
+		AosVtV6xAYD35htcG7EK9e9P63Q=
+		</data>
+		<key>PlugIns/GDS2020Tests.xctest/Info.plist</key>
+		<data>
+		eoxXdZfNf2f6lNUhGhpBeFpwd4U=
+		</data>
+		<key>PlugIns/GDS2020Tests.xctest/_CodeSignature/CodeResources</key>
+		<data>
+		UpsXM0UuKQjPCPq5f9VEBqEFI7M=
 		</data>
 		<key>SimpleLineIcons.ttf</key>
 		<data>
@@ -98,11 +147,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EFPk589VgQf5owxyelN/ImUUSsM=
+			agSryHJ97dDPJqG7g6R6m2Kv4YE=
 			</data>
 			<key>hash2</key>
 			<data>
-			zGqabMFA2x4CXSY8V++bFF9tcEy3zwm94v52mOgbuwA=
+			kA0R6O/2fKxTG2Fp7wy4s32duIukyCj3ognDnccn5a8=
 			</data>
 		</dict>
 		<key>Entypo.ttf</key>
@@ -204,6 +253,74 @@
 			fh3QPdTOkLZYBSVUzXRZ3xZxZxc4mlUvpMbVal+JM+Y=
 			</data>
 		</dict>
+		<key>Frameworks/XCTest.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DQ4GPJ7FuM6H+FaCC/2wxhPSGCQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			VfVpYXVjG5OK2j8J39CP2mIMg1P5eFaYkRIJ/Hb2RSQ=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/XCTest</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HK6asLJ70IK7E4e83e8R1gxACHo=
+			</data>
+			<key>hash2</key>
+			<data>
+			olgg9NXiZ2M1ifvjBR8uTJxtXlM5EacLdDrNxfmImoY=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/8LQToTPOL9FsEsYDaACQ21Day0=
+			</data>
+			<key>hash2</key>
+			<data>
+			C7sJpbu4qpi8/rH5JYpdQYncotP69JQ9Fiu8jrHXYvU=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TuBj57ZP6zBqcL9HttO2Rucaw9E=
+			</data>
+			<key>hash2</key>
+			<data>
+			89RGkjZaKuewYnjpzwhIswhqfrU8+pcEXqM/DHVrUmo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/XCTest.framework/version.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			P6P66kW7+LvLIo4WHjXGltpT8CA=
+			</data>
+			<key>hash2</key>
+			<data>
+			2BV684CZjHtMZHxSiwC5qc/DGXv9WIOWUc9dEU/Q1pw=
+			</data>
+		</dict>
+		<key>Frameworks/libXCTestBundleInject.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xKX69bDGMJa2TcU/BC9ypZ06rsI=
+			</data>
+			<key>hash2</key>
+			<data>
+			jJ/zKe1SwWk9KkZ4MXV01NPW4QiHpU1aZhpfTDknkp0=
+			</data>
+		</dict>
 		<key>Ionicons.ttf</key>
 		<dict>
 			<key>hash</key>
@@ -246,6 +363,61 @@
 			<key>hash2</key>
 			<data>
 			ua3cE7d8ZyDNSM0Y8PSoyuWJsbkQNjDCSd5gq3Lf1r4=
+			</data>
+		</dict>
+		<key>PlugIns/GDS2020Tests.xctest.dSYM/Contents/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4pI57JVtZaiYKbstI1iTAY7VsLQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			pSN9yMCa1errobjjZvT8mOa8vqp/G8gb5bMGwOZIrwk=
+			</data>
+		</dict>
+		<key>PlugIns/GDS2020Tests.xctest.dSYM/Contents/Resources/DWARF/GDS2020Tests</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QD6jDTV46x2Z1RYWUeadQFN67Pw=
+			</data>
+			<key>hash2</key>
+			<data>
+			jX85uLOUTHFRA8bRaMI0Ss6wbI4NpgYzdlV4tJIYyE4=
+			</data>
+		</dict>
+		<key>PlugIns/GDS2020Tests.xctest/GDS2020Tests</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AosVtV6xAYD35htcG7EK9e9P63Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			P4YN+7VYjnePmHt8pqvpVfLmoWCDDteRN6VciWoxsFY=
+			</data>
+		</dict>
+		<key>PlugIns/GDS2020Tests.xctest/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eoxXdZfNf2f6lNUhGhpBeFpwd4U=
+			</data>
+			<key>hash2</key>
+			<data>
+			LrZpE44H1L7dIoI9r4xMNCuEkjrql9pNncjQ6cOOsVs=
+			</data>
+		</dict>
+		<key>PlugIns/GDS2020Tests.xctest/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UpsXM0UuKQjPCPq5f9VEBqEFI7M=
+			</data>
+			<key>hash2</key>
+			<data>
+			Zjwlx2pB6Y2pjEsfJtmW/16op4eMi112THLlsvxjaiE=
 			</data>
 		</dict>
 		<key>SimpleLineIcons.ttf</key>
