@@ -8,6 +8,9 @@
        "indicadores": [
         {"indicador": "osa", "valor": "85", "diferencia": "20" },
         {"indicador": "precios", "valor": "56", "diferencia": "-15" },
+        {"indicador": "promocion", "valor": "67", "diferencia": "15" },
+        {"indicador": "osa", "valor": "85", "diferencia": "20" },
+        {"indicador": "precios", "valor": "56", "diferencia": "-15" },
         {"indicador": "promocion", "valor": "67", "diferencia": "15" }
          
        ]

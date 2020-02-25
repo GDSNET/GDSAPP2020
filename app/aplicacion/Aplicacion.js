@@ -6,7 +6,7 @@ import AplicacionNavigation from './AplicacionNavigation'
 import ModalScreen from '../screens/ModalScreen'
 import HelpScreen from '../screens/HelpScreen'
 import Activity from '../screens/ActivityScreen'
-import ASDASD from '../herramientas/FlashMessage2'
+
 import FlashMessage from "react-native-flash-message";
 
 // Imports: Redux Actions
@@ -44,16 +44,8 @@ class Applicacion extends React.Component {
     return (
  
  <View style={{flex: 1}}>
-    
-      <Text  style={{flex: 0.1, marginTop: 100}}> aplicacion : {this.state.dato} 
-      a continuacion {JSON.stringify(this.props.isRefresh)} 
-      </Text>
-
       <FlashMessage position="top" />
-
-
         <AplicacionNavigation />
-        <ASDASD />
         <ModalScreen />
         <HelpScreen />
 

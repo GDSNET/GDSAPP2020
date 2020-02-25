@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import { Button, Dimensions, SafeAreaView, StyleSheet, Text, TouchableOpacity, View, Alert } from 'react-native';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
-import FlashMessages from '../herramientas/FlashMessage'
+
 
 
 
@@ -30,7 +30,7 @@ const {funUserModal, loggedIn, ms_help, home_modal, funUserHelp} = this.props;
 
     return (
       <SafeAreaView style={styles.container}>
-        <FlashMessages />
+        
 
   
 
