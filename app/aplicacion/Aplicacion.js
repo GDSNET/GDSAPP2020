@@ -6,7 +6,6 @@ import AplicacionNavigation from './AplicacionNavigation'
 import ModalScreen from '../screens/ModalScreen'
 import HelpScreen from '../screens/HelpScreen'
 import Activity from '../screens/ActivityScreen'
-
 import FlashMessage from "react-native-flash-message";
 
 // Imports: Redux Actions
