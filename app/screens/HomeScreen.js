@@ -3,6 +3,8 @@ import React, { Component } from 'react';
 import { Button, Dimensions, SafeAreaView, StyleSheet, Text, TouchableOpacity, View, Alert } from 'react-native';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
+import FlashMessages from '../herramientas/FlashMessage'
+
 
 
 // Imports: Redux Actions
@@ -14,7 +16,12 @@ const { height, width } = Dimensions.get('window');
 // Screen: Counter
 class Home extends React.Component {
 
+funFlashModal(){
 
+  const {funMessage} = this.props;
+
+  funMessage('hola soy un mensaje :D')
+}
 
 
   render() {
@@ -23,16 +30,31 @@ const {funUserModal, loggedIn, ms_help, home_modal, funUserHelp} = this.props;
 
     return (
       <SafeAreaView style={styles.container}>
+        <FlashMessages />
 
+  
+
+   
         <View style={styles.loggedInContainer}>
       
           <Text style={styles.loggedInText}>Logged In: </Text>
           <Text style={styles.loggedInText}>{`${loggedIn}`}</Text>
+
+          <Button
+            title="flashh"
+            onPress={()=>this.funFlashModal()}
+            style={styles.loginButton}
+          />
+
           <Button
             title="Abrir Modal"
             onPress={()=>funUserModal(!home_modal)}
             style={styles.loginButton}
           />
+
+
+
+          
            <Button
             title="Abrir Help"
             onPress={()=>funUserHelp(!ms_help)}

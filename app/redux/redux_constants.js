@@ -24,3 +24,8 @@ export const VISTA_SALAS= 'VISTA_SALAS';
 
 
 
+
+export const MESSAGE = 'MESSAGE';
+
+
+
